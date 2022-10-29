@@ -1,3 +1,7 @@
+## UPDATED ENGINE
+
+0.3.2
+
 ## Friday Night Funkin' - Bit Enigne
 ![62c00485288f9 (1)](https://user-images.githubusercontent.com/113801267/193470011-c05c71c9-9149-4450-a750-ec43469aa027.png)
 A engine that created the VS shrek 6 DEMO mod
@@ -24,12 +28,14 @@ https://code.visualstudio.com/
 
 ## Creators
 
-* MyFnf - engine developer
-* MasterOak - Bug Handler
-* StefanBETA2008 - Android porter
-* MemeHoovy - complining the engine
+* MMbay64 - entire mod
+
 ## Special thanks
 
+* MyFnf - for the actual engine
+* MasterOak - the bug fixer
+* StefanBETA2008 -  android porting
+* Memehoovy - a good compiler/coder
 * ArtableBOX - lua programming
 * WarlyFarly_GitHub! - a lil member
 
@@ -71,3 +77,4 @@ If you hav'nt heard,there is a vanilla engine in early 2023 of this engine.
 * not much stuff added
 * not interesting for the team
 * not enough time/ideas
+
